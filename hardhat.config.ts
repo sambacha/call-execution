@@ -7,7 +7,7 @@ const mnemonic = 'test test test test test test test test test test test junk';
 
 const config: HardhatUserConfig = {
   solidity: {
-    version: '0.8.0',
+    version: '0.8.6',
     settings: {
       metadata: {
         bytecodeHash: 'none',
